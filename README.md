@@ -183,8 +183,8 @@ Make sure the following are installed:
 ### Installation & Run Steps
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/Imtiaz-Ali17314/Learning-Electron-Js.git
-    cd Learning-Electron-Js
+    git clone https://github.com/Imtiaz-Ali17314/Learning-Electron-Js-from-Youtube
+    cd Learning-Electron-Js-from-Youtube
     ```
 2.  **Install Node Dependencies**:
     ```bash
